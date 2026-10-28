@@ -15,14 +15,13 @@ Todos os arquivos markdown de tarefas devem seguir estas diretrizes:
 
 ## 2. Orientação das Seções
 
-Os cabeçalhos das seções devem usar EXATAMENTE o mesmo texto do template, incluindo os ícones emoji. NÃO traduza os cabeçalhos.
+Os cabeçalhos devem reproduzir EXATAMENTE os textos do template, incluindo acentos e emojis. Use esta estrutura:
 
-- `# 📘 Assignment: [Assignment Title]` — Substitua `[Assignment Title]` por um nome curto e descritivo (ex: `Python Basics`, `Loops and Conditionals`, `Functions and Modules`).
-- `## 🎯 Objective` — Escreva 1-2 frases resumindo o que o aluno aprenderá ou realizará. Foque nas principais habilidades ou conceitos.
-- `## 📝 Tasks` — Para cada tarefa, use `### 🛠️ [Task Title]`:
-   - Use um nome de tarefa específico e orientado à ação
-   - Na Descrição, indique claramente o que o aluno deve fazer.
-   - Nos Requisitos, use bullet points para listar os resultados ou funcionalidades esperadas. Seja específico e mensurável
-   - Forneça exemplos de entrada/saída em blocos de código se útil.
+- `# 📘 Atividade: [Título da Atividade]` — Escolha um título curto e descritivo.
+- `## 🎯 Objetivo` — Escreva 1-2 frases sobre o que o aluno aprenderá ou construirá.
+- `## 📝 Tarefas` — Inclua uma ou mais tarefas, cada uma com a estrutura abaixo:
+   - `### 🛠️ [Título da Tarefa]` — Use um título específico e orientado à ação.
+   - `#### Descrição` — Explique claramente o que o aluno deve fazer.
+   - `#### Requisitos` — Liste em bullet points os resultados ou funcionalidades esperados; seja específico e mensurável.
 
-Não inclua seções extras a menos que explicitamente especificado.
+Inclua exemplos de entrada e saída em blocos de código quando forem úteis. Não remova nem pule seções obrigatórias e não adicione seções extras, a menos que solicitado explicitamente.
